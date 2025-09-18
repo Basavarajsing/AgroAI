@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌾 Agritech Demand Forecasting Platform
 
-# Run and deploy your AI Studio app
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen?logo=mongodb)](https://www.mongodb.com/atlas)  
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org/)  
+[![Express](https://img.shields.io/badge/Backend-Express-black?logo=express)](https://expressjs.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1vxdrc5us_-fJ94_WlRUCk1Nb-XnH3FTJ
+## 📌 Overview
+The **Agritech Demand Forecasting Platform** is an **AI-driven full-stack web application** that helps farmers forecast **crop demand** using market trends, seasonal data, and regional insights.  
+It prevents **oversupply, reduces food waste, and increases farmer income stability**.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
+- 📊 **AI-powered demand forecasting**
+- 🌍 **Region-based recommendations**
+- 🔑 **Secure login & authentication**
+- 📂 **Save & export reports (PDF/Excel)**
+- 👨‍🌾 **Farmer-friendly dashboard UI**
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB Atlas (Cloud)  
+- **Authentication:** JWT, Bcrypt  
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/<Basavarajsing>/agritech-platform.git
+cd agritech-platform
