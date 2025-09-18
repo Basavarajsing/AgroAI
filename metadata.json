@@ -1,0 +1,5 @@
+{
+  "name": "AgroAI: Crop Disease Detector",
+  "description": "An AI-powered platform for early crop disease detection and localized management guidance. It empowers farmers with sustainable solutions to boost yields, reduce chemical use, and strengthen food security, even in low-connectivity areas.",
+  "requestFramePermissions": []
+}
